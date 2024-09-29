@@ -14,9 +14,12 @@ This project analyzes the occurrence of symptoms in patients using Python's data
 
 ### Visualizations:
 <li>Barplot showing the frequency of each symptom across the dataset.</li>
+
+![image](https://github.com/user-attachments/assets/da77fd2b-6e3d-4542-b60d-4fa74f8e0502)
+
 <li>Scatter plot representing the presence or absence of symptoms for each patient.</li>
 
-
+![image](https://github.com/user-attachments/assets/a7f8c755-30f7-466b-bcaf-1ed1717dadaf)
 
 
 # Technologies Used:
